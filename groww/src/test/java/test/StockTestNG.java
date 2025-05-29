@@ -64,9 +64,9 @@ public class StockTestNG extends Base{
 		driver.get("https://groww.in");
 		
 		loginPage.clickOnLoginBtn();
-		loginPage.enterEmailId("pen.killer77@gmail.com");
+		loginPage.enterEmailId("");
 		loginPage.clickOnContinueBtn();
-		loginPage.enterPassword("deadman123!");
+		loginPage.enterPassword("");
 		loginPage.clickOnSubmitBtn();
 		loginPage.enterPin();
 		UtilClass.snapShot(driver, testId);
