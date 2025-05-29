@@ -20,7 +20,7 @@ public class ClickOnLogin {
 	
 	public void enterPass() {
 		
-		enterPassword.sendKeys("deadman123!");
+		enterPassword.sendKeys("");
 	}
 	
 	public void clickOnLogn() {
