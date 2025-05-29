@@ -20,7 +20,7 @@ public class UserNamePage {
 	
 	public void enterMobNo() {
 		
-		mobileNo.sendKeys("8600393064");
+		mobileNo.sendKeys("");
 	}
 	
 	public void clickOnCont() {
