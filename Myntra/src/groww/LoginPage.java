@@ -59,10 +59,10 @@ public class LoginPage {
 	}
 	
 	public void enterPin() {
-		pin1.sendKeys("2");
-		pin2.sendKeys("0");
-		pin3.sendKeys("0");
-		pin4.sendKeys("7");
+		pin1.sendKeys("");
+		pin2.sendKeys("");
+		pin3.sendKeys("");
+		pin4.sendKeys("");
 	}
 	
 	
