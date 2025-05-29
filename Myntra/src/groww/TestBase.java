@@ -18,9 +18,9 @@ public class TestBase {
 	
 	LoginPage loginPage = new LoginPage(driver);
 	loginPage.clickOnLoginBtn();
-	loginPage.enterEmailId("pen.killer77@gmail.com");
+	loginPage.enterEmailId("");
 	loginPage.clickOnContinueBtn();
-	loginPage.enterPassword("deadman123!");
+	loginPage.enterPassword("");
 	loginPage.clickOnSubmitBtn();
 	loginPage.enterPin();
 	
