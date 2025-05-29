@@ -32,12 +32,12 @@ public class LoginPage {
 	
 	public void enterMobileNo()
 	{
-		mobileNo.sendKeys("8600393064");
+		mobileNo.sendKeys("");
 	}
 	
 	public void enterPassword() 
 	{
-		password.sendKeys("SpaceMan123!");
+		password.sendKeys("");
 	}
 	
 	public void clickOnLogin()
